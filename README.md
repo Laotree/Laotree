@@ -4,7 +4,7 @@
 
 A Software Engineer specializing in Backend technologies. Professional experience with the technologies listed in the **toolbox** below.
 
-I managed to create an online presence with my [Blog](https://blog.qingyuejiaju.cn/)
+I managed to create an online presence with my [Blog](https://Laotree.github.io/)
 
 ---
 

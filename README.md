@@ -25,6 +25,11 @@ reach for Rust when I need more control.
 
 ---
 
+<!-- ACTIVITY_START -->
+<!-- ACTIVITY_END -->
+
+---
+
 ![GitHub contribution chart](https://ghchart.rshah.org/Laotree)
 
 [Blog](https://Laotree.github.io) · Shanghai

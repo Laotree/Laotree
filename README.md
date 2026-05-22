@@ -26,6 +26,18 @@ reach for Rust when I need more control.
 ---
 
 <!-- ACTIVITY_START -->
+
+## Recent Activity — May 2026
+
+### Recently pushed
+
+| Repository | Description | Language |
+|---|---|---|
+| [Laotree](https://github.com/Laotree/Laotree) | The homepage of my github |  |
+| [Laotree.github.io](https://github.com/Laotree/Laotree.github.io) | Blog | CSS |
+
+*Auto-generated on 2026-05-22 · [workflow](/.github/workflows/monthly-summary.yml)*
+
 <!-- ACTIVITY_END -->
 
 ---

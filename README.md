@@ -1,35 +1,30 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am LaoTree!
+# Rui Cheng
+
+Backend and systems engineer based in Shanghai.
+
+I build infrastructure tooling, daemons, and data pipelines. Primary language is Go;
+reach for Rust when I need more control.
 
 ---
 
-A Software Engineer specializing in Backend technologies. Professional experience with the technologies listed in the **toolbox** below.
+## Stack
 
-I managed to create an online presence with my [Blog](https://Laotree.github.io/)
+**Languages** — Go · Rust · Python · TypeScript  
+**Data** — PostgreSQL · ClickHouse · Elasticsearch · RabbitMQ
 
 ---
 
-🧰 Toolbox
+## Projects
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbitmq" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/> 
-          
-          
+| | |
+|---|---|
+| [ime](https://github.com/Laotree/ime) | iMessage ↔ Claude Code relay daemon, written in Rust |
+| [gomod-size-viewer](https://github.com/Laotree/gomod-size-viewer) | VS Code extension to inspect Go module dependency sizes |
+| [reproduce_cf20251118](https://github.com/Laotree/reproduce_cf20251118) | Reproduction of the Cloudflare 2025-11-18 outage |
+| [amytis](https://github.com/Laotree/amytis) | Static site generator for minimalist digital gardens |
+
 ---
 
-## &#x1f4c8; My GitHub Stats
+![GitHub contribution chart](https://ghchart.rshah.org/Laotree)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laotree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Laotree/Laotree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Blog](https://Laotree.github.io) · Shanghai

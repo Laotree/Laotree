@@ -34,9 +34,11 @@ reach for Rust when I need more control.
 | Repository | Description | Language |
 |---|---|---|
 | [Laotree](https://github.com/Laotree/Laotree) | The homepage of my github |  |
-| [Laotree.github.io](https://github.com/Laotree/Laotree.github.io) | Blog | CSS |
+| [logs-locally-plugin](https://github.com/Laotree/logs-locally-plugin) | Store and browse Claude Code session logs locally with SQLite and web UI | Rust |
+| [pre-usage-plugin](https://github.com/Laotree/pre-usage-plugin) | A plugin for Claude Code that estimates token usage before each prompt is sent. When usage exceeds a configurable threshold, it either warns    and auto-proceeds, or blocks with an interactive [S]end/[C]ancel prompt. A guardrail against unintentionally large prompts. | Rust |
+| [verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin) | Network check before Claude Code starts — DNS, exit IP region, and TCP connectivity with 🟢🟡🔴 status | Rust |
 
-*Auto-generated on 2026-05-22 · [workflow](/.github/workflows/monthly-summary.yml)*
+*Auto-generated on 2026-05-24 · [workflow](/.github/workflows/monthly-summary.yml)*
 
 <!-- ACTIVITY_END -->
 

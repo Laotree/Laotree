@@ -13,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Generate activity summary
         env:
@@ -28,5 +30,6 @@ jobs:
           git diff --quiet README.md && echo "No changes to commit" || (
             git add README.md &&
             git commit -m "chore: update monthly activity summary [skip ci]" &&
+            git pull --rebase origin main &&
             git push
           )

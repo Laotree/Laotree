@@ -44,6 +44,6 @@ reach for Rust when I need more control.
 
 ---
 
-![GitHub contribution chart](https://ghchart.rshah.org/Laotree)
+![Activity](https://llp-chart.laotree.workers.dev/chart.svg)
 
 [Blog](https://Laotree.github.io) · Shanghai

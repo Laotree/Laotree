@@ -40,10 +40,9 @@ reach for Rust when I need more control.
 
 *Auto-generated on 2026-05-24 · [workflow](/.github/workflows/monthly-summary.yml)*
 
+![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)
 <!-- ACTIVITY_END -->
 
 ---
 
-![Activity](https://llp-chart.laotree.workers.dev/chart.svg)
-
-[Blog](https://Laotree.github.io) · Shanghai
+[Blog](https://Laotree.github.io) 

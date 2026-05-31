@@ -46,6 +46,7 @@ reach for Rust when I need more control.
 
 *Auto-generated on 2026-05-31 · [workflow](/.github/workflows/monthly-summary.yml)*
 
+![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)
 <!-- ACTIVITY_END -->
 
 ---

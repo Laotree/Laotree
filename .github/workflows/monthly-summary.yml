@@ -21,7 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Laotree
-        run: python3 .github/scripts/update_summary.py
+        run: |
+          git pull origin main
+          python3 .github/scripts/update_summary.py
 
       - name: Commit and push
         run: |
@@ -30,6 +32,6 @@ jobs:
           git diff --quiet README.md && echo "No changes to commit" || (
             git add README.md &&
             git commit -m "chore: update monthly activity summary [skip ci]" &&
-            git pull --rebase origin main &&
+            git pull --rebase -X theirs origin main &&
             git push
           )

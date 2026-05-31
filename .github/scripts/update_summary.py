@@ -116,6 +116,8 @@ def main():
         f"*Auto-generated on {now.strftime('%Y-%m-%d')} "
         f"· [workflow](/.github/workflows/monthly-summary.yml)*"
     )
+    lines.append("")
+    lines.append("![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)")
 
     summary = "\n".join(lines)
 

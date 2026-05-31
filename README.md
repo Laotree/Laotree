@@ -29,18 +29,23 @@ reach for Rust when I need more control.
 
 ## Recent Activity — May 2026
 
+**2** releases published
+
 ### Recently pushed
 
 | Repository | Description | Language |
 |---|---|---|
 | [Laotree](https://github.com/Laotree/Laotree) | The homepage of my github |  |
-| [logs-locally-plugin](https://github.com/Laotree/logs-locally-plugin) | Store and browse Claude Code session logs locally with SQLite and web UI | Rust |
-| [pre-usage-plugin](https://github.com/Laotree/pre-usage-plugin) | A plugin for Claude Code that estimates token usage before each prompt is sent. When usage exceeds a configurable threshold, it either warns    and auto-proceeds, or blocks with an interactive [S]end/[C]ancel prompt. A guardrail against unintentionally large prompts. | Rust |
-| [verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin) | Network check before Claude Code starts — DNS, exit IP region, and TCP connectivity with 🟢🟡🔴 status | Rust |
+| [homebrew-tap](https://github.com/Laotree/homebrew-tap) | Homebrew tap for verify-networking | Python |
+| [logs-locally-plugin](https://github.com/Laotree/logs-locally-plugin) | Browse Claude Code & Pi agent session logs (SQLite + web UI) with session scoring and GitHub profile activity charts | Rust |
 
-*Auto-generated on 2026-05-24 · [workflow](/.github/workflows/monthly-summary.yml)*
+### Releases
 
-![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)
+- [logs-locally-plugin v0.8.5](https://github.com/Laotree/logs-locally-plugin/releases/tag/v0.8.5)
+- [logs-locally-plugin v0.8.4](https://github.com/Laotree/logs-locally-plugin/releases/tag/v0.8.4)
+
+*Auto-generated on 2026-05-31 · [workflow](/.github/workflows/monthly-summary.yml)*
+
 <!-- ACTIVITY_END -->
 
 ---

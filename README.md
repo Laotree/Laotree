@@ -27,7 +27,7 @@ reach for Rust when I need more control.
 
 <!-- ACTIVITY_START -->
 
-## Recent Activity — May 2026
+## Recent Activity — June 2026
 
 **2** releases published
 
@@ -44,9 +44,10 @@ reach for Rust when I need more control.
 - [logs-locally-plugin v0.8.5](https://github.com/Laotree/logs-locally-plugin/releases/tag/v0.8.5)
 - [logs-locally-plugin v0.8.4](https://github.com/Laotree/logs-locally-plugin/releases/tag/v0.8.4)
 
-*Auto-generated on 2026-05-31 · [workflow](/.github/workflows/monthly-summary.yml)*
+*Auto-generated on 2026-06-01 · [workflow](/.github/workflows/monthly-summary.yml)*
 
 ![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)
+
 <!-- ACTIVITY_END -->
 
 ---

@@ -27,9 +27,7 @@ reach for Rust when I need more control.
 
 <!-- ACTIVITY_START -->
 
-## Recent Activity — August 2026
-
-**1** release published
+## Recent Activity — September 2026
 
 ### Recently pushed
 
@@ -37,13 +35,10 @@ reach for Rust when I need more control.
 |---|---|---|
 | [Laotree.github.io](https://github.com/Laotree/Laotree.github.io) | Blog | CSS |
 | [clickhouse-go](https://github.com/Laotree/clickhouse-go) | Golang driver for ClickHouse | Go |
-| [verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin) | Network check before Claude Code starts — DNS, exit IP region, and TCP connectivity with 🟢🟡🔴 status | Rust |
+| [netbird](https://github.com/Laotree/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go |
+| [uuid-compat-bench](https://github.com/Laotree/uuid-compat-bench) | Benchmark and compatibility testing for UUID implementations in Go and ClickHouse, with bidirectional validation and throughput regression detection. | Go |
 
-### Releases
-
-- [verify-networking-plugin v0.2.0](https://github.com/Laotree/verify-networking-plugin/releases/tag/v0.2.0)
-
-*Auto-generated on 2026-08-01 · [workflow](/.github/workflows/monthly-summary.yml)*
+*Auto-generated on 2026-09-01 · [workflow](/.github/workflows/monthly-summary.yml)*
 
 ![Activity](https://llp-chart.laotree.workers.dev/chart/2f183a4e64493af3.svg)
 

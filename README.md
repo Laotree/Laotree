@@ -1,9 +1,8 @@
 # Rui Cheng
 
-Backend and systems engineer based in Shanghai.
+Backend and systems engineer fully remote.
 
 I build infrastructure tooling, daemons, and data pipelines. Primary language is Go;
-reach for Rust when I need more control.
 
 ---
 
